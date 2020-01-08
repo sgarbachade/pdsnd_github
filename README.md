@@ -1,15 +1,14 @@
 ### Date created
-Include the date you created this project and README file.
+08/01/2020.
 
 ### Project Title
-Replace the Project Title
+Post your Work on GitHub
 
 ### Description
-Describe what your project is about and what it does
+Use your local git repository and your GitHub repository. Fork a repository, work on files, stage files and commit them to GitHub.
 
 ### Files used
-Include the files used
+New_York.csv, Washinton.csv, Shicago
 
 ### Credits
-It's important to give proper credit. Add links to any repo that inspired you or blogposts you consulted.
-
+https://git-scm.com/book/en/v2/Git-Basics-Recording-Changes-to-the-Repository#Ignoring-Files
