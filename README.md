@@ -8,7 +8,7 @@ Post your Work on GitHub
 Use your local git repository and your GitHub repository. Fork a repository, work on files, stage files and commit them to GitHub.
 
 ### Files used
-New_York.csv, Washinton.csv, Shicago
+New_York.csv, Washinton.csv, Chicago.csv
 
 ### Credits
 https://git-scm.com/book/en/v2/Git-Basics-Recording-Changes-to-the-Repository#Ignoring-Files
