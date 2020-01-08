@@ -12,3 +12,4 @@ New_York.csv, Washinton.csv, Chicago.csv
 
 ### Credits
 https://git-scm.com/book/en/v2/Git-Basics-Recording-Changes-to-the-Repository#Ignoring-Files
+https://git-scm.com/doc
